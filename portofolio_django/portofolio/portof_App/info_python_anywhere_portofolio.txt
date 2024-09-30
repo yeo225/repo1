@@ -1,0 +1,7 @@
+USERNAME : FranckYeo
+MAIL : gnenetemeyeo@gmail.com
+MDP : 11163817P
+
+chemin : /home/FranckYeo/portofolio
+
+FranckYeo.pythonanywhere.com
